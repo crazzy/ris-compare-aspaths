@@ -1,0 +1,8 @@
+# Vim
+*.sw*
+
+# Python venv
+bin/
+include/
+lib/
+pyvenv.cfg
